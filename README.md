@@ -1,10 +1,21 @@
-<h1 align="center">Hi there, I'm Suraj Pawar 👋</h1>
-<h3 align="center">Java Full Stack Developer | Building scalable web apps with Spring Boot & React.js</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:00BCD4&height=200&section=header&text=Suraj%20Pawar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%" />
 
 <p align="center">
   <a href="https://linkedin.com/in/surajjjj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:surajpaw157@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/SurajPawar0208"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Pune,%20Maharashtra-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/SurajPawar0208">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0DBCD4&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot+%2B+React.js+Developer;Building+secure+full-stack+web+apps;Open+to+Full+Stack+Developer+roles+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SurajPawar0208&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/SurajPawar0208?label=Followers&style=social" alt="followers" />
 </p>
 
 ---
@@ -24,80 +35,92 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,c,spring,react,bootstrap,tailwind,mysql,mongodb,git,github,githubactions,maven,postman,vscode&perline=9" />
 </p>
 
-**Frameworks & Libraries**
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-</p>
+<details>
+<summary>📋 See full skill breakdown</summary>
+<br>
 
-**Backend & APIs**
-<p>
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/JDBC-4479A1?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
-</p>
+**Backend & APIs:** REST APIs · JWT Authentication · Servlets · JSP · JDBC · Swagger/OpenAPI
+**Core Concepts:** OOP · Collections Framework · Stream API · MVC Architecture · SDLC · Data Structures
 
-**Databases**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
-</p>
-
-**Tools & Platforms**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-</p>
+</details>
 
 ---
 
 ### 📌 Featured Projects
 
-#### 🎓 [Nexus – E-Learning Platform](https://github.com/SurajPawar0208)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 Nexus – E-Learning Platform**
+
 Full-stack e-learning platform with Spring Boot REST APIs for auth, courses, enrollment, quizzes, assignments, payments, and certificates.
-- JWT auth, BCrypt hashing, and role-based access control (Student/Instructor/Admin)
-- Firebase push notifications, Spring Mail, iTextPDF certificate generation
-- React.js frontend with protected routing, gamification (streaks, badges, leaderboard), and Swagger docs
+- JWT auth, BCrypt hashing, RBAC (Student/Instructor/Admin)
+- Firebase push notifications, Spring Mail, iTextPDF certificates
+- React.js frontend with gamification (streaks, badges, leaderboard)
 
-**Tech:** Java · Spring Boot · Spring Security · JWT · MySQL · Hibernate · React.js · Maven
+`Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `Hibernate` `React.js`
 
-#### 🎵 [Musify – Java Web Music Application](https://github.com/SurajPawar0208/MySpotify)
+</td>
+<td width="50%" valign="top">
+
+**🎵 [Musify](https://github.com/SurajPawar0208/MySpotify) – Java Web Music App**
+
 Full-stack music streaming app built with Java Servlets (MVC) and JDBC/MySQL.
-- DAO layer (Playlist/Song/User) with connection pooling for safe CRUD
-- Secure auth with password hashing & session management
-- REST-like endpoints with AJAX-driven responsive UI
-- SQL indexing for sub-second responses across 10k+ tracks
-- CI pipeline via GitHub Actions with unit tests & static analysis
+- DAO layer with connection pooling for safe CRUD
+- Secure auth with password hashing & sessions
+- SQL indexing → sub-second responses for 10k+ tracks
+- CI pipeline via GitHub Actions
 
-**Tech:** Java · Servlets · JSP · JDBC · MySQL · Maven · Git
+`Java` `Servlets` `JSP` `JDBC` `MySQL` `Maven`
 
-#### 🤝 [CodePair](https://github.com/SurajPawar0208/CodePair)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤝 [CodePair](https://github.com/SurajPawar0208/CodePair)**
+
 Real-time hackathon partner matching platform.
 
-#### 🎬 [NetFlix-Clone](https://github.com/SurajPawar0208/NetFlix-Clone)
+`JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+**🎬 [NetFlix-Clone](https://github.com/SurajPawar0208/NetFlix-Clone)**
+
 Netflix UI clone built with React, including page routing.
 
-#### 🎓 [Student Management System](https://github.com/SurajPawar0208/Student_Management_System)
+`React.js` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 [Student Management System](https://github.com/SurajPawar0208/Student_Management_System)**
+
 JavaScript-based system for managing student records.
+
+`JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+**💼 [Portfolio](https://github.com/SurajPawar0208/Portfolio)**
+
+My personal portfolio site.
+
+`CSS` `HTML`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -112,14 +135,37 @@ JavaScript-based system for managing student records.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurajPawar0208&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SurajPawar0208&theme=tokyo-night" width="98%" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SurajPawar0208&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SurajPawar0208/SurajPawar0208/output/github-contribution-grid-snake.svg" width="98%" />
+</p>
+
+> ⚙️ The snake animation above needs a one-time GitHub Actions setup (instructions below).
+
 ---
 
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/surajjjj">LinkedIn</a> •
-  <a href="mailto:surajpaw157@gmail.com">Email</a> •
-  <a href="https://github.com/SurajPawar0208">GitHub</a>
+  <a href="https://linkedin.com/in/surajjjj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:surajpaw157@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>🟢 Currently open to Full Stack Developer roles — let's connect if you're hiring or know of an opportunity!</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCD4,100:0D47A1&height=100&section=footer" width="100%" />
