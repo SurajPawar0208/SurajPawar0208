@@ -39,7 +39,7 @@
 - Integrated **Firebase Admin SDK** for push notifications, **Spring Mail** for emails, **iTextPDF** for certificate generation, and file-upload APIs for lessons/materials.  
 - Developed a **React.js** frontend with role-based dashboards, protected routes, course catalog, gamification (streaks, badges, leaderboard), and Swagger/OpenAPI 3.0 docs.  
 
-> 🔗 _Add here_: `[View Backend Repo](#)` · `[View Frontend Repo](#)` · `[Live Demo](#)`  
+> 🔗 Link:  
 
 #### 🎵 Musify – Java Web Music Application
 `Java · Servlets · JSP · JDBC · MySQL · Maven · MVC · REST-like API · Git`
@@ -49,7 +49,7 @@
 - Exposed REST-like endpoints for playlists, song search, and user management, using **AJAX** for a responsive UI.  
 - Optimized SQL with indexes to achieve **sub-second response times for 10k+ tracks** and documented APIs with Swagger + full Javadoc.  
 
-> 🔗 _Add here_: `[View Repo](#)` · `[Demo / Screenshots](#)`  
+> 🔗Link  
 
 ---
 
