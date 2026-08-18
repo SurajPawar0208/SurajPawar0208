@@ -121,27 +121,6 @@ My personal portfolio site.
 </td>
 </tr>
 </table>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=SurajPawar0208&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-  alt="Suraj Pawar's GitHub statistics"
-/>  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajPawar0208&layout=compact&theme=tokyonight" />
-</p>
-   
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurajPawar0208&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SurajPawar0208&theme=tokyo-night" width="98%" />
-</p>
-
 ---
 ### 🐍 Contribution Snake
 
@@ -163,4 +142,4 @@ My personal portfolio site.
 <p align="center"><i>🟢 Currently open to Full Stack Developer roles — let's connect if you're hiring or know of an opportunity!</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCD4,100:0D47A1&height=100&section=footer" width="100%" />
- this is my old readme file
+
