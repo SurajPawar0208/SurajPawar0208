@@ -1,171 +1,164 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:00BCD4&height=200&section=header&text=Suraj%20Pawar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%" />
+# Hi, I'm Suraj Pawar 👋
+
+### Software Developer | Full-Stack Developer | Java & JavaScript Enthusiast
+
+I am a Computer Science graduate and aspiring software developer from Pune, Maharashtra, India. I enjoy building practical, scalable, and user-friendly web applications using modern technologies.
+
+I am particularly interested in full-stack development, Java and Spring Boot applications, REST APIs, database management, software deployment, and AI-powered solutions.
+
+---
+
+## About Me
+
+- 🎓 BSc Computer Science graduate
+- 💻 Interested in full-stack web application development
+- 🌱 Currently improving my skills in Java, Spring Boot, system design, and cloud deployment
+- 🔧 Experienced in developing REST APIs and database-driven applications
+- 🚀 Familiar with deploying applications using Vercel and GitHub integration
+- 🤝 Open to entry-level software development opportunities and collaboration
+- 📍 Based in Pune, Maharashtra, India
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+
+### Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### Tools and Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## Featured Projects
+
+### Multi-Store Order Management System
+
+A full-stack order management application designed to handle products, stores, customers, and orders across multiple stores.
+
+**Technologies:** Node.js, Express.js, Next.js, MongoDB, JavaScript
+
+**Key features:**
+
+- Store and product management
+- Customer and order management
+- REST API integration
+- MongoDB database operations
+- Responsive web interface
+- GitHub-based development workflow
+
+---
+
+### CRM Application
+
+A Java and Spring Boot-based customer relationship management application for organizing customer records and business-related information.
+
+**Technologies:** Java, Spring Boot, REST API, SQL
+
+**Key features:**
+
+- Customer record management
+- Structured backend architecture
+- RESTful API development
+- Database integration
+- Modular Java application design
+
+---
+
+### Hospital Management Application
+
+A web-based application for managing hospital-related information and operations.
+
+**Technologies:** Java, Spring Boot, REST APIs, Database Management
+
+**Key features:**
+
+- Patient information management
+- Structured backend services
+- API-based communication
+- Database-driven application design
+
+---
+
+## Current Learning Goals
+
+- Advanced Java and object-oriented programming
+- Spring Boot and production-ready REST APIs
+- Data structures and algorithms
+- Secure authentication and authorization
+- Cloud deployment and application monitoring
+- System design and scalable application architecture
+- AI API integration in modern web applications
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-  <a href="https://linkedin.com/in/surajjjj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:surajpaw157@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/SurajPawar0208"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Pune,%20Maharashtra-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SurajPawar0208&show_icons=true&theme=tokyonight&hide_border=true" alt="Suraj's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajPawar0208&layout=compact&theme=tokyonight&hide_border=true" alt="Suraj's most used languages" />
 </p>
 
+---
+
+## Contribution Streak
+
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=SurajPawar0208&theme=tokyonight&hide_border=true" alt="Suraj's GitHub contribution streak" />
+</p>
+
+---
+
+## Let's Connect
+
+<p align="left">
   <a href="https://github.com/SurajPawar0208">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0DBCD4&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot+%2B+React.js+Developer;Building+secure+full-stack+web+apps;Open+to+Full+Stack+Developer+roles+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-username">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
+I am open to software development opportunities, collaboration, and interesting technology projects.
+
+---
+
+## Profile Visitors
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SurajPawar0208&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/SurajPawar0208?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=SurajPawar0208&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-### 🚀 About Me
-
-- 💼 Completed my traineeship as a **Full Stack Developer Trainee** at **Linkcode Technologies**, Pune — now looking for new opportunities
-- 🔭 Actively seeking a **Full Stack Developer** role where I can apply my Java, Spring Boot & React.js skills
-- 💻 I build **scalable, secure full-stack applications** using **Java, Spring Boot, Hibernate, JPA, React.js, and MySQL**
-- 🔐 Experienced in designing authentication & authorization systems with **Spring Security & JWT**
-- 🌱 Deepening my skills in **Microservices**, **REST API design**, and **cloud-ready architectures**
-- 🎓 Bachelor's in Computer Science from Tuljaram Chaturchand College, Baramati
-- 📄 Certified in **Software Engineering (Electronic Arts)** and **Cyber Security (Microsoft)**
-- ⚡ Fun fact: I like turning ideas into working products end-to-end — frontend to database
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,c,spring,react,bootstrap,tailwind,mysql,mongodb,git,github,githubactions,maven,postman,vscode&perline=9" />
-</p>
-
-<details>
-<summary>📋 See full skill breakdown</summary>
-<br>
-
-**Backend & APIs:** REST APIs · JWT Authentication · Servlets · JSP · JDBC · Swagger/OpenAPI
-**Core Concepts:** OOP · Collections Framework · Stream API · MVC Architecture · SDLC · Data Structures
-
-</details>
-
----
-
-### 📌 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🎓 Nexus – E-Learning Platform**
-
-Full-stack e-learning platform with Spring Boot REST APIs for auth, courses, enrollment, quizzes, assignments, payments, and certificates.
-- JWT auth, BCrypt hashing, RBAC (Student/Instructor/Admin)
-- Firebase push notifications, Spring Mail, iTextPDF certificates
-- React.js frontend with gamification (streaks, badges, leaderboard)
-
-`Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `Hibernate` `React.js`
-
-</td>
-<td width="50%" valign="top">
-
-**🎵 [Musify](https://github.com/SurajPawar0208/MySpotify) – Java Web Music App**
-
-Full-stack music streaming app built with Java Servlets (MVC) and JDBC/MySQL.
-- DAO layer with connection pooling for safe CRUD
-- Secure auth with password hashing & sessions
-- SQL indexing → sub-second responses for 10k+ tracks
-- CI pipeline via GitHub Actions
-
-`Java` `Servlets` `JSP` `JDBC` `MySQL` `Maven`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🤝 [CodePair](https://github.com/SurajPawar0208/CodePair)**
-
-Real-time hackathon partner matching platform.
-
-`JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-**🎬 [NetFlix-Clone](https://github.com/SurajPawar0208/NetFlix-Clone)**
-
-Netflix UI clone built with React, including page routing.
-
-`React.js` `JavaScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🎓 [Student Management System](https://github.com/SurajPawar0208/Student_Management_System)**
-
-JavaScript-based system for managing student records.
-
-`JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-**💼 [Portfolio](https://github.com/SurajPawar0208/Portfolio)**
-
-My personal portfolio site.
-
-`CSS` `HTML`
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SurajPawar0208&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajPawar0208&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurajPawar0208&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SurajPawar0208&theme=tokyo-night" width="98%" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SurajPawar0208&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SurajPawar0208/SurajPawar0208/output/github-contribution-grid-snake.svg" width="98%" />
-</p>
-
-> ⚙️ The snake animation above needs a one-time GitHub Actions setup (instructions below).
-
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/surajjjj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:surajpaw157@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center"><i>🟢 Currently open to Full Stack Developer roles — let's connect if you're hiring or know of an opportunity!</i></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCD4,100:0D47A1&height=100&section=footer" width="100%" />
+⭐ Thanks for visiting my profile!
